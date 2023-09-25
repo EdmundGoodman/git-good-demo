@@ -3,6 +3,8 @@ import sys
 a = 0
 b = 1
 
+print("Garden tiger moth")
+
 output = f"{a}, {b}"
 
 try:
